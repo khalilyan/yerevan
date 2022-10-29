@@ -1,5 +1,6 @@
 Project Created with create-react-app;
---About project;
+
+About project;
 
 The project consists of 2 sections, Intro and Main.
 1. Intro
