@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/yerevan/static/css/main.967540c1.css",
-    "main.js": "/yerevan/static/js/main.7fa4a2b6.js",
+    "main.js": "/yerevan/static/js/main.66199c9c.js",
     "static/js/787.a9a61706.chunk.js": "/yerevan/static/js/787.a9a61706.chunk.js",
     "static/media/nightYerevan.jpg": "/yerevan/static/media/nightYerevan.c49e8cea3731f5390ae4.jpg",
     "static/media/2.png": "/yerevan/static/media/2.a948f71c7ce0228a251d.png",
@@ -14,11 +14,11 @@
     "static/media/b69ec631-71fc-40ea-a804-0e3b1799f8f2-istock-939202028.jpg": "/yerevan/static/media/b69ec631-71fc-40ea-a804-0e3b1799f8f2-istock-939202028.73a38db09f0a1cf43d9c.jpg",
     "index.html": "/yerevan/index.html",
     "main.967540c1.css.map": "/yerevan/static/css/main.967540c1.css.map",
-    "main.7fa4a2b6.js.map": "/yerevan/static/js/main.7fa4a2b6.js.map",
+    "main.66199c9c.js.map": "/yerevan/static/js/main.66199c9c.js.map",
     "787.a9a61706.chunk.js.map": "/yerevan/static/js/787.a9a61706.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.967540c1.css",
-    "static/js/main.7fa4a2b6.js"
+    "static/js/main.66199c9c.js"
   ]
 }
