@@ -2,7 +2,7 @@ import Box from '@mui/material/Box';
 import MenuItem from '@mui/material/MenuItem';
 import FormControl from '@mui/material/FormControl';
 import Select from '@mui/material/Select';
-import { useState } from 'react';
+import React, { useState } from 'react'
 import Paper from '@mui/material/Paper';
 import InputBase from '@mui/material/InputBase';
 import IconButton from '@mui/material/IconButton';
@@ -21,8 +21,7 @@ function Systems() {
     <Box sx={{ minWidth: 90 }}>
       <FormControl size='small'>
         <Select
-          id='select'
-          style={{background: 'none', fontSize: 14}}
+        style={{background: 'none', fontSize: 14}}
           value={system}
           onChange={handleChange}
         >
@@ -39,7 +38,7 @@ function Systems() {
 export default function SearchInput() {
 
     const [searchTxt,setSearchTxt] = useState('');
-    const selected = document.getElementsByClassName('MuiInputBase-input css-mnn31');
+    const selected = document.getElementsByClassName('MuiSelect-select MuiSelect-outlined MuiInputBase-input MuiOutlinedInput-input MuiInputBase-inputSizeSmall css-182didf') ;
     const search = (e) => {
         e.preventDefault()
         if(searchTxt==='') return null
@@ -52,14 +51,13 @@ export default function SearchInput() {
   return (
     <div className='main-article-content'>  
         <Paper
-            id='Paper'
             component="form"
-            sx={{ background: 'rgba(255, 255, 255, 0.558)',p: '3px 5px', display: 'flex', alignItems: 'center', width: '60%' }}>
+            sx={{ p: '3px 5px', display: 'flex', alignItems: 'center', width: '60%' }}>
                 <Systems/>
             <InputBase
                 value={searchTxt}
                 onChange={(e)=>setSearchTxt(e.target.value)}
-                sx={{ ml: 1, flex: 1}}
+                sx={{ ml: 1, flex: 1 }}
                 placeholder="Search"
             />
             <IconButton type="submit" sx={{ p: '10px' }} onClick={search} >
