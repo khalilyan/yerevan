@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/yerevan/static/css/main.967540c1.css",
+    "main.js": "/yerevan/static/js/main.b6e9a6d2.js",
+    "static/js/787.a9a61706.chunk.js": "/yerevan/static/js/787.a9a61706.chunk.js",
+    "static/media/nightYerevan.jpg": "/yerevan/static/media/nightYerevan.c49e8cea3731f5390ae4.jpg",
+    "static/media/2.png": "/yerevan/static/media/2.a948f71c7ce0228a251d.png",
+    "static/media/3.png": "/yerevan/static/media/3.b5cae9ad3ed4d1539eac.png",
+    "static/media/1.png": "/yerevan/static/media/1.1fda8c3fab90d3849b3c.png",
+    "static/media/Screenshot002-1920x1080-jpg": "/yerevan/static/media/Screenshot002-1920x1080-c73ea06cc196477f079f01965f2d6830.f294a7529d2828ebd4b0.jpg",
+    "static/media/view-from-cascade-yerevan-armenia-cs-3000-af233802a806.jpg": "/yerevan/static/media/view-from-cascade-yerevan-armenia-cs-3000-af233802a806.6b4d5212cace64a41309.jpg",
+    "static/media/4.png": "/yerevan/static/media/4.ecfb97acd92130fedcf5.png",
+    "static/media/evening.jpg": "/yerevan/static/media/evening.2b24aaf13b86370384dd.jpg",
+    "static/media/b69ec631-71fc-40ea-a804-0e3b1799f8f2-istock-939202028.jpg": "/yerevan/static/media/b69ec631-71fc-40ea-a804-0e3b1799f8f2-istock-939202028.73a38db09f0a1cf43d9c.jpg",
+    "index.html": "/yerevan/index.html",
+    "main.967540c1.css.map": "/yerevan/static/css/main.967540c1.css.map",
+    "main.b6e9a6d2.js.map": "/yerevan/static/js/main.b6e9a6d2.js.map",
+    "787.a9a61706.chunk.js.map": "/yerevan/static/js/787.a9a61706.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.967540c1.css",
+    "static/js/main.b6e9a6d2.js"
+  ]
+}
