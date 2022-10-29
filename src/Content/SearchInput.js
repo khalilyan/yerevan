@@ -39,7 +39,7 @@ function Systems() {
 export default function SearchInput() {
 
     const [searchTxt,setSearchTxt] = useState('');
-    const selected = document.getElementsByClassName('MuiSelect-select MuiSelect-outlined MuiInputBase-input MuiOutlinedInput-input MuiInputBase-inputSizeSmall css-jedpe8-MuiSelect-select-MuiInputBase-input-MuiOutlinedInput-input');
+    const selected = document.getElementsByClassName('MuiInputBase-input css-mnn31');
     const search = (e) => {
         e.preventDefault()
         if(searchTxt==='') return null
