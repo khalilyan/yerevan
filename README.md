@@ -15,5 +15,6 @@ We can searching on 4 searching systems Google,Yandex,Yahoo,Baidu.
 Background of section is changing dippend of time for example on night is Yerevan night picture.
 
 *Project is Responsible.
+
 *Project created specially for learning parallax effect.
 
